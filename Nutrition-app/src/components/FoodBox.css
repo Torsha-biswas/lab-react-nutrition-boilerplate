@@ -1,0 +1,40 @@
+.food-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .media {
+    display: flex;
+    align-items: center;
+  }
+  
+  .media-left {
+    margin-right: 10px;
+  }
+  
+  .image img {
+    max-width: 100%;
+  }
+  
+  .content {
+    flex: 1;
+  }
+  
+  .field.has-addons {
+    display: flex;
+  }
+  
+  .input {
+    width: 60px;
+    margin-right: 10px;
+  }
+  
+  .result {
+    margin-top: 10px;
+  }
+  
+  .button.is-danger {
+    margin-top: 10px;
+  }
+  
